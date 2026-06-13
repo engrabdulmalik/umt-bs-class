@@ -6,7 +6,7 @@ function App() {
   return (
     <>
      <h1>
-      Hello Class
+      Hello UMT Class
      </h1>
     </>
   )
